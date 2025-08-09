@@ -18,13 +18,14 @@ This project analyzes customer churn based on key indicators such as tenure, sup
 
 ## Project Structure
 
+```
 Churn_Analysis_VSCode/
 ├── churn_analysis.py # Main analysis script
 ├── MAIN DATA.xlsx # Source data file
 ├── README.md # Project documentation
 └── plots/ # Output directory for visualizations
 
----
+```
 
 ## How to Run
 
@@ -48,5 +49,3 @@ Follow these steps to run the analysis locally:
 For suggestions or collaboration, feel free to reach out!
 
 ---
-
-Let me know when you want me to generate a downloadable file again — I’ll do it as soon as tools are available. ​:contentReference[oaicite:0]{index=0}​
